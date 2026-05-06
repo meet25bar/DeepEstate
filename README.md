@@ -1,4 +1,5 @@
 ﻿# DeepEstate
+
 🏡 DeepEstate
 Neural Network-Based House Price Prediction
 
@@ -57,16 +58,19 @@ Or run the Jupyter Notebook for step-by-step execution.
 Input: House features (area, bedrooms, etc.)
 Output: Predicted house price
 
+
 ⚠️ Important Notes
 Always apply the same scaler (transform) used during training
 Avoid data leakage by not fitting on test data
 Ensure input data is numeric and properly shaped
+
 
 🎯 Future Improvements
 Hyperparameter tuning
 Add more features for better accuracy
 Deploy as a web app (Flask/Streamlit)
 Integrate real-world datasets
+
 
 🤝 Contributing
 
