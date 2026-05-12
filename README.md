@@ -23,22 +23,22 @@ Optimizer: Adam
 Loss Function: Mean Squared Error (MSE)
 
 🛠️ Tech Stack
-Python 🐍
-TensorFlow / Keras
-NumPy
-Pandas
-Matplotlib / Seaborn
+Python 🐍,
+TensorFlow / Keras,
+NumPy,
+Pandas,
+Matplotlib / Seaborn,
 Scikit-learn
 
 📂 Project Workflow
-Load and explore dataset
-Clean and preprocess data
-Encode categorical features
-Scale features using StandardScaler
-Split into training and testing sets
-Train deep learning model
-Evaluate performance
-Make predictions
+-Load and explore dataset
+-Clean and preprocess data
+-Encode categorical features
+-Scale features using StandardScaler
+-Split into training and testing sets
+-Train deep learning model
+-Evaluate performance
+-Make predictions
 
 📊 Visualization
 Scatter plot of Actual vs Predicted prices
