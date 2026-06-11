@@ -16,10 +16,10 @@ Neural Network-Based House Price Prediction
 🔹 Visualization of actual vs predicted values
 
 🧠 Model Architecture
- 4 Hidden Layers (Dense, ReLU activation) 
- Output Layer (1 neuron for regression)
- Optimizer: Adam
- Loss Function: Mean Squared Error (MSE)
+- 4 Hidden Layers (Dense, ReLU activation) 
+- Output Layer (1 neuron for regression)
+- Optimizer: Adam
+- Loss Function: Mean Squared Error (MSE)
 
 🛠️ Tech Stack
 -Python 🐍,
